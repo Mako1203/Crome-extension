@@ -3,6 +3,7 @@
 Расширение для браузера, которое позволяет выделять текст на любой веб-странице, подсвечивать его и сохранять в локальное хранилище Chrome вместе с источником (URL, заголовок и время). Используется как инструмент для учёбы и работы с информацией.
 
 Скриншот
+
 <img width="380" height="499" alt="image" src="https://github.com/user-attachments/assets/79f5cb84-110a-4fd7-ab69-5029ac18582c" />
 
 Стек
@@ -11,6 +12,9 @@ HTML5
 CSS3
 Chrome Extension API (Manifest V3)
 chrome.storage.local
+
+
+
 Как запустить локально
 git clone <ссылка на репозиторий>
 cd web-highlighter-extension
